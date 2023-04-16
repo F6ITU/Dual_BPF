@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EC2-12NU
+D KEMET, EC2, Relays, Signal, 12 V, 220 V, 250 VAC, 2 A, 75 mOhms, 1 GOhms, 15mm, 7.5mm, 9.4mm
+K
+F https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Amidon_T50")(type "KiCad")(uri "${KIPRJMOD}/libs/Amidon_T50.pretty")(options "")(descr ""))
+  (lib (name "EC-12NU")(type "KiCad")(uri "${KIPRJMOD}/libs/EC-12NU")(options "")(descr ""))
+  (lib (name "MCL_RF_Filter")(type "KiCad")(uri "${KIPRJMOD}/libs/MCL_RF_Filter.pretty")(options "")(descr ""))
+  (lib (name "SMA_PINS")(type "KiCad")(uri "${KIPRJMOD}/libs/SMA_PINS.pretty")(options "")(descr ""))
+)
