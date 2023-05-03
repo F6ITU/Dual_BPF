@@ -449,7 +449,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Dual_BPF.step",
+      "step": "../../../../Desktop/Dual_BPF.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
