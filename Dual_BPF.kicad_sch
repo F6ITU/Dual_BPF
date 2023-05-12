@@ -3081,7 +3081,7 @@
     (uuid fffd2c14-dd30-4c10-a7fa-028d66efacc0)
   )
 
-  (text "Pour le filtre N°1\n- ne pas installer K8, C40, C34, FB16, FB15. \n- Souder une résistance de 0 Ohms entre les pistes \n3 et 4\n9 et 10 \nde l'empreinte du relais"
+  (text "Pour le filtre N°1\n- ne pas installer K8, C40, C34, FB16, FB15. \n- Souder une résistance de 0 Ohms entre les pistes \n3 et 4\n9 et 10 \nde l'empreinte du relais\n\n"
     (at 145.415 247.65 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7236751a-1450-4c22-86ad-aec04a82cdb6)
@@ -3090,6 +3090,11 @@
     (at 146.05 70.485 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c8940726-5961-4114-9aaa-7760471574c8)
+  )
+  (text "For filter No. 1\n- do not install K8, C40, C34, FB16, FB15. \n- Solder a 0 Ohm resistor between tracks \n3 and 4\n9 and 10 \nof the relay footprint"
+    (at 152.4 231.14 0)
+    (effects (font (size 1.27 1.27) italic) (justify left bottom))
+    (uuid f296d1b8-2c2d-4f2f-9949-4b425f91d4a7)
   )
 
   (global_label "13HPF_2" (shape input) (at 123.825 110.49 270) (fields_autoplaced)
